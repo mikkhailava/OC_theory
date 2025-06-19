@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/olegraytsev/Documents/bsu/osy/lab5 -B /Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug
+-- Found Python: /opt/homebrew/Frameworks/Python.framework/Versions/3.13/bin/python3.13 (found version "3.13.2") found components: Interpreter
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Configuring done (2.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug
