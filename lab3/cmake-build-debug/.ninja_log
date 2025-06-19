@@ -1,0 +1,6 @@
+# ninja log v6
+0	2172	1743363576187922471	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	540829dd9f2539df
+1	1109	1743363576188921394	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	f12de1f1dea2d8f6
+2172	2291	1743363578359480625	lib/libgtest.a	72c5846e50d5e806
+2291	2309	1743363578478559740	lib/libgtest_main.a	d369228b4877e58d
+2309	2489	1743363578496514723	runTests	3d5479bec1dfa3d2
